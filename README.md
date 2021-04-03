@@ -6,7 +6,6 @@ The purpose of this analysis is to determine if there is any bias towards review
 
 
 ## Results
-Using bulleted lists and images of DataFrames as support, address the following questions:
 
 - How many Vine reviews were there?
 
