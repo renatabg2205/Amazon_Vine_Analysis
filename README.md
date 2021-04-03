@@ -35,12 +35,6 @@ Using bulleted lists and images of DataFrames as support, address the following 
 
 ## Summary
 
-In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. 
-Then, provide one additional analysis that you could do with the dataset to support your statement.
+Based on the results, we can say that there is a positivity bias for reviews in the Vine program because 51% of the paid reviews were 5 stars and 38.7% of non-paid reviews were 5 stars.
 
-
-
-
-
-================
- For this analysis, you'll determine if having a paid Vine review makes a difference in the percentage of 5-star reviews.
+An "Amazon Verified Purchase" review means that the person writing the review purchased the product at Amazon and did not receive the product at a deep discount. A more thorough analysis could be made by determining the total number of reviews, the number of 5-star reviews, and the percentage of 5-star reviews for the two types of review (paid vs unpaid) for verified_purchase equals Y and N.
